@@ -1,3 +1,5 @@
+
+
 ==========
 Django-Templated-Email
 ==========
@@ -232,3 +234,5 @@ The Mailchimp STS sender uses the same template processor as the VanillaDjango b
 You can also override the *template_dir* variable when calling *send_templated_mail*
 
 .. _Django: http://djangoproject.com
+
+others https://readthedocs.org/projects/templated-emails/
